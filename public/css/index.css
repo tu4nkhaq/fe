@@ -22,7 +22,7 @@ body {
 }
 /* Banner */
 .hero-image {
-   background-image: url(../../image/main-banner-1_a986aad3-9003-4b33-b85d-6e438ebd4c84_1903x.jpg);;
+   background-image: url("../../image/main-banner-1_a986aad3-9003-4b33-b85d-6e438ebd4c84_1903x.jpg");
    background-color: #cccccc;
    height: 500px;
    background-position: center;
@@ -92,7 +92,7 @@ body {
 /* Subbanner */
 .bgsubbanner1 {
    text-align: center;
-   background-image: url(../../image/subbanner-1.jpg);
+   background-image: url("../../image/subbanner-1.jpg");
    object-fit: cover;
    padding: 100px;
    background-size: cover;
@@ -102,7 +102,7 @@ body {
 
 .bgsubbanner2 {
    text-align: center;
-   background-image: url(../../image/subbanner-2.jpg);
+   background-image: url("../../image/subbanner-2.jpg");
    padding: 100px;
    background-size: cover;
    background-repeat: no-repeat;
